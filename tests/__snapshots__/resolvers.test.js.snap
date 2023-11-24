@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test des résolveurs GraphQL Recherche d'utilisateurs par nom 1`] = `
+{
+  "data": {
+    "usersByName": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la mutation pour ajouter un utilisateur 1`] = `
+{
+  "data": {
+    "addUser": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête addPost 1`] = `
+{
+  "data": {
+    "addPost": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête addProjet 1`] = `
+{
+  "data": {
+    "addProjet": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête addUser 1`] = `
+{
+  "data": {
+    "addUser": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête deletePost 1`] = `
+{
+  "data": {
+    "deletePost": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête deleteProjet 1`] = `
+{
+  "data": {
+    "deleteProjet": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête deleteUser 1`] = `
+{
+  "data": {
+    "deleteUser": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête post 1`] = `
+{
+  "data": {
+    "post": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête posts 1`] = `
+{
+  "data": {
+    "posts": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête projet 1`] = `
+{
+  "data": {
+    "projet": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête projets 1`] = `
+{
+  "data": {
+    "projets": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête updatePost 1`] = `
+{
+  "data": {
+    "updatePost": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête updateProjet 1`] = `
+{
+  "data": {
+    "updateProjet": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête updateUser 1`] = `
+{
+  "data": {
+    "updateUser": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête users 1`] = `
+{
+  "data": {
+    "users": null,
+  },
+}
+`;
+
+exports[`Test des résolveurs GraphQL Test de la résolution de la requête utilisateur 1`] = `
+{
+  "data": {
+    "user": null,
+  },
+}
+`;
